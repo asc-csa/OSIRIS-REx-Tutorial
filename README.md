@@ -56,7 +56,7 @@ pip install PDS4_tools-1.3.zip
 
 ## About
 
-The Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer (OSIRIS-REx) using the Touch-And-Go Sample Acquisition Mechanism (TAGSAM) was designed to reach the asteroid Bennu and return back to Earth with a asteroid sample. OSIRIS-REx drew close enough to Earth on September 24, 2023 to release its sample to the atmosphere.<br>
+The Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer (OSIRIS-REx) using the Touch-And-Go Sample Acquisition Mechanism (TAGSAM) was designed to reach the asteroid Bennu and return back to Earth with an asteroid sample. OSIRIS-REx drew close enough to Earth on September 24, 2023 to release its sample to the atmosphere.<br>
 
 The Canadian Space Agency (CSA) contributed the Laser Altimeter (OLA) to the OSIRIS-REx spacecraft. The OLA sends pulses of lasers, which is recorded and processed to return the coordinates and distance of points in a point cloud.<br>
 
