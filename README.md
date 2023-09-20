@@ -60,7 +60,7 @@ The Origins, Spectral Interpretation, Resource Identification, Security-Regolith
 
 The Canadian Space Agency (CSA) contributed the Laser Altimeter (OLA) to the OSIRIS-REx satellite. The OLA sends pulses of lasers, which is recorded and processed to return the coordinates and distance of points in a point cloud.<br>
 
-This tool was invaluable in providing scientist with an accurate and detailed 3D model of Bennu’s surface, allowing for the analysis of shape, slope, roughness, and more. This information was further used in the determination of a sample site. Several sites were shortlisted, with Nightingale being selected for its mix of well-preserved regolith, large 140m sample crater, and relatively safe access trajectory.<br>
+This tool was invaluable in providing scientists with an accurate and detailed 3D model of Bennu’s surface, allowing for the analysis of shape, slope, roughness, and more. This information was further used in the determination of a sample site. Several sites were shortlisted, with Nightingale being selected for its mix of well-preserved regolith, large 140m sample crater, and relatively safe access trajectory.<br>
 
 Point cloud data not only provides benefits for space-based applications, but has many applications here on Earth, from self-driving vehicles, digital twin development, surveys, imaging and more. Despite these benefits, this data can still be quite difficult to work with due to its large size and computational complexity. Therefore, this tutorial seeks to introduce the reader to several techniques in the management, processing and visualization of point cloud data.  
 
