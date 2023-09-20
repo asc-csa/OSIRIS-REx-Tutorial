@@ -33,9 +33,9 @@ Le satellite OSIRIS-REx (Origins, Spectral Interpretation, Resource Identificati
 
 L'Agence spatiale canadienne (ASC) a fourni l'altimètre laser (OLA) pour la mission d'OSIRIS-REx. L'OLA envoie des impulsions de lasers, qui sont enregistrées et traitées pour renvoyer les coordonnées et la distance des points dans un nuage de points.<br>
 
-Cet outil s'est avéré inestimable pour fournir aux scientifiques un carte 3D précis et détaillée de la surface de Bennu. Il a permis d'analyser la forme, la pente, la rugosité et bien d'autres choses encore de Bennu. Ces informations ont ensuite été utilisées pour déterminer un site d'échantillonnage. Plusieurs sites ont été présélectionnés, et Nightingale a été choisi pour son mélange de régolithe bien préservé, son grand cratère d'échantillonnage de 140 m et sa trajectoire d'accès relativement sûre.<br>
+Cet outil s'est avéré inestimable pour fournir aux scientifiques une carte 3D précise et détaillée de la surface de Bennu. Il a permis d'analyser la forme, la pente, la rugosité et bien d'autres choses encore de Bennu. Ces informations ont ensuite été utilisées pour déterminer un site d'échantillonnage. Plusieurs sites ont été présélectionnés, et Nightingale a été choisi pour son mélange de régolithe bien préservé, son grand cratère d'échantillonnage de 140 m et sa trajectoire d'accès relativement sûre.<br>
 
-Les nuages de points ne sont pas seulement utiles pour les applications spatiales, mais aussi pour de multiples applications sur Terre : véhicules à conduite autonome, développement de doubles numériques, sondages, imagerie, etc. Cependant, malgré ces avantages, il peut être assez difficile de travailler avec ces données en raison de leur grande quantité et leur complexité de calcul. Par conséquent, ce tutoriel a pour but de présenter au lecteur plusieurs techniques de gestion, de traitement et de visualisation des données de nuages de points.  
+Les nuages de points ne sont pas seulement utiles pour les applications spatiales, mais a de multiples applications sur Terre : véhicules à conduite autonome, développement de doubles numériques, sondages, imagerie, etc. Cependant, malgré ces avantages, il peut être assez difficile de travailler avec ces données en raison de leur grande quantité et leur complexité de calcul. Par conséquent, ce tutoriel a pour but de présenter au lecteur plusieurs techniques de gestion, de traitement et de visualisation des données de nuages de points.  
 
 ## Démarrage rapide
 
@@ -62,7 +62,7 @@ The Canadian Space Agency (CSA) contributed the Laser Altimeter (OLA) to the OSI
 
 This tool was invaluable in providing scientist with an accurate and detailed 3D model of Bennu’s surface, allowing for the analysis of shape, slope, roughness, and more. This information was further used in the determination of a sample site. Several sites were shortlisted, with Nightingale being selected for its mix of well-preserved regolith, large 140m sample crater, and relatively safe access trajectory.<br>
 
-Point cloud data not only provides benefits for space-based applications, but has many applications hear on Earth, from self-driving vehicles, digital twin development, surveys, imaging and more. Despite these benefits, this data can still be quite difficult to work with due to its large size and computational complexity. Therefore, this tutorial seeks to introduce the reader to several techniques in the management, processing and visualization of point cloud data.  
+Point cloud data not only provides benefits for space-based applications, but has many applications here on Earth, from self-driving vehicles, digital twin development, surveys, imaging and more. Despite these benefits, this data can still be quite difficult to work with due to its large size and computational complexity. Therefore, this tutorial seeks to introduce the reader to several techniques in the management, processing and visualization of point cloud data.  
 
 ## Quick Start
 
